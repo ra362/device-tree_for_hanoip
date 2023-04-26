@@ -17,3 +17,4 @@ Rear Camera  | 64 MP (f/1.7) + 8 MP + 2 MP
 Front Camera | 16 MP (f/2.2)
 # hanoip_tree
 # device-tree_for_hanoip
+# device-tree_for_hanoip
